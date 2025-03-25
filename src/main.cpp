@@ -40,6 +40,8 @@ int main(){
         cout << i+1 <<".Name: " << relatives[i].name;
         cout <<"\n"<< i+1 <<".Age: " << relatives[i].age<<"\n";
     }
+
+    return 0;
 }
 
 void pressAnyKey()
